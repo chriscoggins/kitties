@@ -26,7 +26,8 @@ nav a {
 h1 {
   color: white;
   padding-left: 1rem;
-  padding-top: 5rem;
+  padding-top: 3rem;
+  margin-bottom: .5rem;
 }
 
 h3 {
@@ -36,6 +37,7 @@ h3 {
 h4 {
   color: grey;
   padding-left: 1rem;
+  margin-top: 2px;
 }
 
 a {
@@ -44,7 +46,23 @@ a {
 }
 
 section {
-  height: 22rem;
+  height: 30rem;
+}
+
+address {
+  float: left;
+  padding-left: 1rem;
+  color: white;
+  font-style: normal;
+  margin-top: 1rem;
+  width: 95%;
+}
+
+.ft {
+  text-align: center;
+  color: white;
+  width: 100%;
+  margin-top: 10px;
 }
 
 .hd {
@@ -61,6 +79,10 @@ section {
   padding: 1rem;
 }
 
+.clear {
+  clear: both;
+}
+
 .rt-col {
   width: 33%;
   float: right;
@@ -72,11 +94,37 @@ section {
   border-width: medium;
 }
 
+.rt-col img {
+  width: 180px;
+  height: 120px;
+  padding-left: 1rem;
+}
+
+.rt-col h3 {
+  padding-top: 2px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.rt-col-sec {
+  padding: 1px;
+  margin-bottom: .5rem;
+}
+
+figcaption {
+  width: 100px;
+  font-size: small;
+  float: left;
+}
+
+aside p {
+  font-style: italic;
+}
+
 article {
   background-color: white;
   color: black;
-  margin: 0;
-  padding: 0;
+
 }
 
 p {
