@@ -111,7 +111,7 @@ address {
   margin-bottom: .5rem;
 }
 
-figcaption {
+.img-cap {
   width: 100px;
   font-size: small;
   float: left;
