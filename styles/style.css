@@ -1,11 +1,12 @@
 html {
-  
+  font-size: 16px;
 }
 
 body {
   background-color: black;
-  margin-left: 22rem;
-  margin-right: 22rem;
+  margin-left: 220px;
+  margin-right: 220px;
+  width: 980px;
 }
 
 header {
@@ -19,8 +20,8 @@ nav {
 
 nav a {
   color: rebeccapurple;
-  padding-left: 4%;
-  padding-right: 4%;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 h1 {
@@ -74,7 +75,7 @@ address {
 }
 
 .main {
-  width: 55%;
+  width: 66%;
   float: left;
   padding: 1rem;
 }
@@ -84,7 +85,7 @@ address {
 }
 
 .rt-col {
-  width: 33%;
+  width: 250px;
   float: right;
   padding: .5rem;
   margin-top: 1rem;
