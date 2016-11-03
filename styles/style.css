@@ -1,0 +1,80 @@
+html {
+  
+}
+
+body {
+  background-color: black;
+  margin-left: 22rem;
+  margin-right: 22rem;
+}
+
+header {
+  background-color: black;
+}
+
+nav {
+  background-color: gray;
+  padding: .5rem;
+}
+
+nav a {
+  color: rebeccapurple;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+h1 {
+  color: white;
+  padding-left: 1rem;
+  padding-top: 5rem;
+}
+
+h4 {
+  color: grey;
+  padding-left: 1rem;
+}
+
+a {
+  color: red;
+  text-decoration: underline;
+}
+
+section {
+  height: 20rem;
+}
+
+.hd {
+  background-color: black;
+}
+
+.rt {
+  float: right;
+}
+
+.main {
+  width: 50%;
+  float: left;
+  padding: 1rem;
+}
+
+.rt-col {
+  width: 35%;
+  float: right;
+  padding: .5rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+}
+
+article {
+  background-color: white;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: black;
+}
