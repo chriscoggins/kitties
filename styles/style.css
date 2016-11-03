@@ -29,6 +29,10 @@ h1 {
   padding-top: 5rem;
 }
 
+h3 {
+  text-align: center;
+}
+
 h4 {
   color: grey;
   padding-left: 1rem;
@@ -40,7 +44,7 @@ a {
 }
 
 section {
-  height: 20rem;
+  height: 22rem;
 }
 
 .hd {
@@ -52,13 +56,13 @@ section {
 }
 
 .main {
-  width: 50%;
+  width: 55%;
   float: left;
   padding: 1rem;
 }
 
 .rt-col {
-  width: 35%;
+  width: 33%;
   float: right;
   padding: .5rem;
   margin-top: 1rem;
